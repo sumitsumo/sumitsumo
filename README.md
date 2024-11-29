@@ -7,7 +7,7 @@
         <li>🔭 I’m currently working on SpringBoot and SpringAi.</li>
         <li>👯 I’m looking to collaborate on Backend development.</li>
         <li>🤝 I’m looking for help with Full stack development.</li>
-        <li>🌱 I’m currently learning JavaScript and React.js.</li>
+        <li>🌱 I’m currently learning Rust</li>
         <li>💬 Ask me about Java, DSA, and JAVA-Spring.</li>
         <li>⚡ Fun fact: Facts are not fun, fallacies are.</li>
       </ul>
